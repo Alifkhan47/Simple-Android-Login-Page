@@ -1,0 +1,2 @@
+This project only contains the XML codes for a very simple login page.
+You have to write the java codes yourself.
